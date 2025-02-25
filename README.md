@@ -5,3 +5,4 @@ The 3D TransU-Net framwork can predict the multi-component stress fields for the
 2.The second step is to use data augmentation to expand training set and normalize the data.
 3.The final step is to train the 3D TransU-Net framework using paired samples.
 # Presentation of training results
+![image](https://github.com/pengxiangbobin/3D-TransU-Net-framwork/blob/main/Figure.png)
